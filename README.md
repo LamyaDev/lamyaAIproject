@@ -1,4 +1,5 @@
-Sentiment Analysis Project using AI and Gradio
+}
 
-This project aims to analyze texts and determine the sentiment associated with them using Artificial Intelligence.  
-An interactive interface was built using **Gradio** for ease of use, along with **TextBlob** for sentiment analysis.
+Text Sentiment Analysis with Python & Gradio
+
+A simple Python application that uses TextBlob to analyze text and classify its sentiment as positive, negative, or neutral. Gradio provides an interactive interface for entering text and viewing the analysis result
