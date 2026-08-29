@@ -1,5 +1,10 @@
-}
-
-Text Sentiment Analysis with Python & Gradio
-
-A simple Python application that uses TextBlob to analyze text and classify its sentiment as positive, negative, or neutral. Gradio provides an interactive interface for entering text and viewing the analysis result
+<h1 align="center">Sentiment Analyzer</h1>
+<p align="center">
+  A Python application that analyzes text and classifies its sentiment as positive, negative, or neutral using TextBlob, with an interactive interface built with Gradio.
+</p>
+<h2>Technologies</h2>
+<ul>
+  <li>Python</li>
+  <li>TextBlob</li>
+  <li>Gradio</li>
+</ul>
